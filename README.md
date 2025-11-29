@@ -1,4 +1,4 @@
-#Front-End
+#Group06 - Dating App - FrontEnd
 
 Đây là link GoogleDrive FrontEnd của nhóm em ạ:
 
